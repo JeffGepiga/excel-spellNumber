@@ -1,5 +1,4 @@
-# excel-spellNumber
-Number to Words for for Account.
+# Convert Number to Words in Excel
 
 Instruction: 
 Step 1.) Open your excel file.
